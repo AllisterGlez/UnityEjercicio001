@@ -1,10 +1,10 @@
-Grupo Shuriken! 
+## Grupo Shuriken! 
 
-Integrantes:
+## Integrantes:
 
 
 
-1º) Allister.-
+## 1º) Allister.-
 
 -Animación: 5
 -Modelado: 6
